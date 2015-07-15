@@ -1,0 +1,19 @@
+.slide h1 {
+  color: white;
+  font-size: 6em;
+}
+
+.slide-one {
+  background-color: #0084B4;
+  /*background-color: #0084B4;*/
+  
+}
+
+
+.slide-two {
+  background-color: green;
+}
+
+.slide-three {
+  background-color: grey;
+}
